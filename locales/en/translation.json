@@ -1,0 +1,495 @@
+
+{
+  "nav": {
+    "benefits": "Benefits",
+    "directory": "Directory",
+    "login": "Login",
+    "register": "Register",
+    "menu": "Menu",
+    "open_menu": "Open main menu",
+    "close_menu": "Close menu",
+    "online_users": "Users online: {{count}}",
+    "pricing": "Pricing",
+    "categories": "Categories"
+  },
+  "hero": {
+    "slogan": "Your Recommendation Portal - By customers, for customers!",
+    "cta_button": "Explore Directory"
+  },
+  "key_features": {
+    "title1": "The size of your business doesn't matter!",
+    "desc1": "At DICILO, we are committed to providing all businesses with the best growth opportunities so they can succeed.",
+    "title2": "20 years of experience are not necessary!",
+    "desc2": "At DICILO, we work every day to ensure you achieve the desired results in the shortest possible time."
+  },
+  "reasons": {
+    "title": "Two Reasons to Use DICILO!",
+    "subtitle": "Experience the future of recommendations! Become part of DICILO, the network that builds bridges between companies and buyers. Here, buyers recommend the products they believe in. Together, we build trust and open up new opportunities for your success.",
+    "for_companies": {
+      "title": "For Companies",
+      "point1_title": "Increased Visibility:",
+      "point1_desc": "Stand out and reach a broader target audience through recommendations and targeted advertising.",
+      "point2_title": "Relevant Connections:",
+      "point2_desc": "Specifically target users who are actively looking for your products or services.",
+      "point3_title": "Accelerated Growth:",
+      "point3_desc": "Shorten the customer acquisition process and deliver fast results through trust-based recommendations."
+    },
+    "for_users": {
+      "title": "For Users",
+      "point1_title": "Discover New Options:",
+      "point1_desc": "Find high-quality products and services that are recommended authentically and are easily accessible.",
+      "point2_title": "Exclusive Offers:",
+      "point2_desc": "Allows users to get better prices on products and services.",
+      "point3_title": "Confidence in Choice:",
+      "point3_desc": "Facilitates decision-making through user recommendations and builds trust in purchasing."
+    }
+  },
+  "community": {
+    "title": "Discover unlimited possibilities with our regional business network!",
+    "subtitle": "Become part of a community that breathes innovation and success. Whether you are an established company or a curious customer, DICILO opens the door to a universe full of exclusive offers and unique business opportunities.",
+    "for_companies_title": "For Companies:",
+    "for_companies_desc": "Register your company and enter a world of new markets and collaboration opportunities. Use our platform to expand your reach and strengthen your brand in the regional economic scene.",
+    "for_users_title": "For Users:",
+    "for_users_desc": "Sign up as a user and dive into the world of special offers and customized solutions. Be inspired by the diversity and quality of the products and services in our regional business network.",
+    "cta_join": "Now is the moment to join the change and take advantage of a well-connected business community. Register today and be part of a movement that is redefining the future of regional entrepreneurship.",
+    "register_company": "Register Company",
+    "register_customer": "Sign up as a User",
+    "register_rep": "Become an independent DICILO representative!"
+  },
+  "directory": {
+    "title": "Our Companies",
+    "subtitle": "Discover our products and services! We are continuously improving our portal so that our users can benefit from better buying and selling experiences in all areas.",
+    "search_label": "Search for companies or keywords",
+    "search_placeholder": "Enter here...",
+    "country_label": "Filter by country",
+    "all_countries": "All Countries",
+    "category_label": "Filter by Category",
+    "all_categories": "All Categories",
+    "subcategory_label": "Filter by Subcategory",
+    "all_subcategories": "All Subcategories",
+    "browse_by_category": "Browse by Category",
+    "select_option": "Select",
+    "companies_in": "Companies in",
+    "top_companies": "Top Companies at Dicilo",
+    "no_companies_found": "No companies found for the current selection.",
+    "search_placeholder_simple": "Search for company, service, or city...",
+    "search_button": "Search",
+    "register_button": "Register",
+    "search_results_for": "Search results for: \"{{query}}\""
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "desc": "DICILO is a platform that connects companies with consumers, enhances the visibility of quality products through real recommendations, and creates trustworthy, satisfying shopping experiences."
+    },
+    "links": {
+      "title": "Quick Links",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "contact": "Contact"
+    },
+    "join": {
+      "title": "Become a Part of Our Club",
+      "desc": "Get access to unique offers for local and international products.",
+      "email_placeholder": "Email address",
+      "cta": "Take advantage"
+    },
+    "rights": "All rights reserved."
+  },
+  "categories": {
+    "consulting": "Consulting & Coaching",
+    "education": "Education & Career",
+    "finance": "Financial Services & Provision",
+    "gastronomy": "Gastronomy & Culinary",
+    "health": "Health & Wellness",
+    "hospitality": "Hospitality & Catering",
+    "realEstate": "Real Estate & Housing",
+    "food": "Food & Delicacies",
+    "music": "Music & Events",
+    "social": "Social & Engagement",
+    "sports": "Sports & Fitness",
+    "travel": "Travel & Tourism",
+    "technology": "Technology & Innovation",
+    "textiles": "Textiles & Fashion",
+    "pets": "Pets & Pet Supplies",
+    "transport": "Transport & Mobility",
+    "environment": "Environment & Sustainability",
+    "entertainment": "Entertainment & Leisure"
+  },
+  "subcategories": {
+    "consulting": { "business": "Business Consulting", "legal": "Legal Advice", "tax": "Tax Advice" },
+    "education": { "languages": "Language Courses", "tutoring": "Tutoring", "training": "Further Education" },
+    "finance": { "insurance": "Insurance", "investment": "Investment Advice", "accounting": "Accounting" },
+    "gastronomy": { "restaurants": "Restaurants", "cafes": "Cafés", "bars": "Bars" },
+    "health": { "doctors": "Doctors", "pharmacies": "Pharmacies", "gyms": "Fitness Studios", "hearing_systems": "Hearing Systems" },
+    "hospitality": { "hotels": "Hotels", "vacation": "Vacation Rentals", "pensions": "Guesthouses" },
+    "realEstate": { "buy": "Purchase", "rent": "Rent", "management": "Management" },
+    "food": { "supermarkets": "Supermarkets", "organic": "Organic Shops", "markets": "Weekly Markets" },
+    "music": { "instruments": "Instruments", "lessons": "Lessons", "live": "Live Music" },
+    "social": { "associations": "Associations", "volunteering": "Volunteering", "counseling": "Counseling Centers" },
+    "sports": { "clubs": "Sports Clubs", "equipment": "Equipment", "events": "Events" },
+    "travel": { "agencies": "Travel Agencies", "flights": "Flights", "tours": "Tours", "travel_club": "Travel Club" },
+    "technology": { "it": "IT Service", "software": "Software", "hardware": "Hardware" },
+    "textiles": { "fashion": "Fashion", "shoes": "Shoes", "accessories": "Accessories" },
+    "pets": { "vets": "Veterinarians", "food": "Pet Food", "boarding": "Pet Boarding" },
+    "transport": { "taxi": "Taxi", "logistics": "Logistics", "moving": "Moving Services" },
+    "environment": { "recycling": "Recycling", "renewable": "Renewable Energy", "conservation": "Nature Conservation" },
+    "entertainment": { "cinema": "Cinema", "theater": "Theater", "events": "Events" }
+  },
+  "companies": {
+    "horcomfort": { "slogan": "Hearing systems and more...", "tagline": "For better hearing and quality of life" },
+    "inviajes": { 
+      "slogan": "Welcome to Inviajes.net", 
+      "tagline": "Come and discover the world.",
+      "tours": {
+        "tour1": "Discover the Golden Triangle of India. From: €922",
+        "tour2": "Discover the Jesuit Path in Argentina. From: €1,157",
+        "tour3": "Discover the Sierra Nevada; Santa Marta, Colombia. From: €270",
+        "tour4": "Discover the majestic Inca city of Machu Picchu. From: €699"
+      },
+      "details": {
+        "about": "Inviajes is an innovative platform in the tourism sector and part of MILENIUM HOLDING & CONSULTING. With over 100,000 travel agencies in more than 150 countries, Inviajes offers exclusive membership deals and special prices that provide members with a significant advantage. Our mission is to provide our members with access to the best travel options and services to make their travel experiences unforgettable.",
+        "services": "At Inviajes, we specialize in offering services tailored to the diverse needs of our members. We provide a wide range of travel options, from individual trips to group tours, allowing our members to take advantage of the best deals on the market. Our platform is designed to facilitate access to exclusive member discounts and special offers.",
+        "strength1": "Access to global offers: Inviajes offers its members exclusive access to a wide range of travel deals worldwide.",
+        "strength2": "Exclusive discounts for members: Our members enjoy special discounts not available to the general public.",
+        "strength3": "Membership privileges: Special events, early access to new offers, and participation in prize draws.",
+        "strength4": "Support for group travel: Personalized assistance in planning group trips.",
+        "strength5": "Flexible license options for companies: Leverage our extensive network and resources.",
+        "strength6": "Multilingual support and care: Continuous support from a multilingual team."
+      }
+    },
+    "mhc": { "slogan": "Consulting that crosses borders.", "tagline": "Global strategies, local success." },
+    "bruckenstern": { "slogan": "Restaurant & Jazz Event", "tagline": "Where good taste meets good music." },
+    "indoroutes": { "slogan": "Travel agency for ASIA", "tagline": "Discover the wonders of Asia with us." },
+    "carlota": { "slogan": "Travel agency in Argentina", "tagline": "Your adventure in Argentina starts here." }
+  },
+  "countries": {
+    "germany": "Germany",
+    "international": "International",
+    "india": "India",
+    "argentina": "Argentina"
+  },
+  "social_media": {
+    "title": "Social Media Channels",
+    "description": "Visit us on our social media channels on WhatsApp, Telegram, Instagram, Facebook, TikTok, LinkedIn, YouTube, X, Twitch, and Pinterest! Join our chat groups for free and discover attractive offers from our partner companies. Stay connected, informed, and benefit from exclusive deals!"
+  },
+  "pricing_page": {
+    "hero_title": "Our Prices",
+    "welcome": {
+      "club_title": "Become Part of Our Club",
+      "club_desc": "Join our exclusive club at Dicilo and get access to unique offers for local and international products and services. Become part of a connected community and enjoy great benefits. Sign up today and be part of the change!",
+      "buyers_title": "Buyers",
+      "buyers_desc": "Discover a fascinating world of products and services at unbeatable prices. From gastronomy to fashion to technology – Dicilo has everything you need. Discover our exclusive offers and save even more with just one click!",
+      "entrepreneurs_title": "Entrepreneurs",
+      "entrepreneurs_desc": "Expand your business with Dicilo. Register your company and connect with a global network of entrepreneurs and customers. Get access to new markets and opportunities, grow with your business today!"
+    },
+    "plans_title": "Our Plans and Prices",
+    "plans_desc1": "At DICILO, we believe that success is achieved through genuine recommendations and a strong community. For this reason, we have developed a platform that brings businesses and buyers together efficiently. Whether you want to sell, buy, or give away unused items – DICILO offers you a cost-effective and effective solution.",
+    "plans_desc2": "DICILO.net is a platform that connects businesses and consumers through a digital network of products and services. Through authentic recommendations, direct marketing opportunities, and technical support, DICILO helps maximize the reach and visibility of your products.",
+    "plans_desc3": "It is a great advantage to be part of DICILO.net, as the platform ensures high visibility, enables direct advertising to interested users, and promotes business growth through recommendations in a global community.",
+    "plans_cta": "Choose the right plan for you now and contact us! We are happy to answer all your questions and support you in the optimal use of DICILO.net.",
+    "converter": {
+      "title": "Euro Converter",
+      "amount_placeholder": "Amount in Euro",
+      "button": "Convert",
+      "desc": "For everyone outside of Germany wondering about the exchange rate of the Euro to another currency, you can easily do this with this free currency converter.",
+      "please_enter_amount": "Please enter an amount.",
+      "error": "Error fetching the exchange rate."
+    },
+    "plans": {
+      "private": {
+        "title": "Private Customer",
+        "price": "€0",
+        "period": "/year",
+        "features": [
+          "Receive newsletter with current offers.", "Exclusive discounts.", "No purchase restrictions.", "Technical support.", "Contact us if you want to purchase special products or services", "Annual membership."
+        ],
+        "cta": "Contact"
+      },
+      "retailer": {
+        "title": "Retailer",
+        "price": "€2,340",
+        "period": "/year",
+        "features": [
+          "Receive newsletter with current offers.", "Register up to 300 products or services in a maximum of 4 categories", "2 x recommendation newsletter per month to (potential prospects)", "Online graphic tools", "Attend 4 x free A.I. courses per year", "1 x per month statistics about your landing page", "60 social media posts monthly (3 channels)", "General registration form", "Email support, Mon. – Fri.", "Technical support", "A.I. assistant for (chatbot)", "With annual membership payment (5% discount)"
+        ],
+        "cta": "Contact"
+      },
+      "wholesaler": {
+        "title": "Wholesaler",
+        "price": "€3,900",
+        "period": "/year",
+        "best_choice": "Best Choice",
+        "features": [
+          "Receive newsletter with current offers.", "Register up to 600 products or services in a maximum of 14 categories", "2 x recommendation newsletter per month to (General Dicilo-Community)", "Editing of your graphics", "Editing of your texts", "1 x per month individual A.I. courses", "2 x per month statistics about your landing page", "6 x per year online presentation about your products on the Dicilo-TV channel.", "120 social media posts monthly distributed on 6 Dicilo channels", "Individual registration form for your products/services", "Email support, Mon. – Sat.", "WhatsApp support, Mon. – Sat.", "Premium Support (Individual, no artificial support)", "Individual A.I. assistant on your landing page", "With annual membership (10% discount)"
+        ],
+        "cta": "Contact"
+      },
+      "donor": {
+        "title": "Donor",
+        "price": "€60",
+        "period": "/year",
+        "features": [
+          "Receive newsletter with current offers.", "Register up to 24 products per year.", "Recommendation newsletter.", "16 Social Media Posts.", "Registration form.", "Email support, Mon. – Fri.", "Annual membership."
+        ],
+        "cta": "Contact"
+      }
+    },
+    "testimonials": {
+      "title": "What our customers say",
+      "subtitle": "Don't just take it from us – let our customers speak for themselves!",
+      "carla": {
+        "quote": "Dicilo was the perfect platform to expand my business. I was able to register my products quickly and win new customers. Thanks to the marketing tools and technical support, I have significantly increased my sales.",
+        "name": "Carla M.",
+        "role": "Seller of handmade products"
+      },
+      "tomas": {
+        "quote": "I found fantastic products at unexpectedly low prices. The offers I receive via the newsletter and the Instapost help me save a lot and discover new services that are really useful.",
+        "name": "Tomás R.",
+        "role": "Regular buyer"
+      },
+      "lucia": {
+        "quote": "I had several items that I no longer used, and Dicilo made it easy for me to give them away to people who really needed them. The platform is user-friendly, and I was thrilled with the experience.",
+        "name": "Lucía G.",
+        "role": "User who donated items"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions (FAQs):",
+      "q1": {
+        "q": "1. What is Dicilo.net?",
+        "a": "DICILO is a platform that connects companies with consumers, enhances the visibility of quality products through real recommendations, and creates trustworthy, satisfying shopping experiences."
+      }
+    },
+    "final_cta": {
+      "title": "Don't be left with questions.",
+      "subtitle": "If we haven't answered all your questions, we are here to help you! Don't hesitate to contact us at any time.",
+      "button": "Contact us"
+    }
+  },
+  "client_profile": {
+    "status_available": "Available",
+    "business_data": "Business Data",
+    "contact_info": "Contact Information",
+    "socials": "Follow Us",
+    "founded": "Founded",
+    "employees": "Employees",
+    "projects": "Clients",
+    "support": "Support",
+    "not_found": "Company not found.",
+    "go_home": "Go to Homepage",
+    "countries_active": "Active Countries",
+    "partners": "Partner Agencies",
+    "tabs": {
+        "tours": "Tours",
+        "about": "About Us",
+        "services": "Service",
+        "contact": "Contact",
+        "map": "Map"
+    },
+    "our_strength": "Our Strength",
+    "visit_website": "Visit our Website",
+    "show_larger_map": "View larger map"
+  },
+  "contact": {
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "website": "Website"
+  },
+  "register_page": {
+    "title": "Register Your Company",
+    "subtitle": "Join our growing network and increase your visibility.",
+    "form_title": "Company Details",
+    "company_name": "Company Name",
+    "company_email": "Company Email",
+    "country": "Country",
+    "category_title": "Select Your Category",
+    "category_subtitle": "Choose the main category that best describes your business. This helps customers find you more easily.",
+    "cta": "Complete Registration"
+  },
+  "dicibot": {
+    "greeting": "Hello! I'm DiciBot. How can I help you today?",
+    "placeholder": "Ask me about Dicilo...",
+    "error": "Sorry, an error occurred. Please try again later."
+  },
+  "imprint_page": {
+    "title": "Imprint",
+    "section1": {
+      "title": "Information according to § 5 TMG",
+      "line1": "Dicilo is a brand of;",
+      "line2": "Milenium Holding & Consulting UG – Group.",
+      "line3": "Mühlendamm 84a",
+      "line4": "22087 Hamburg",
+      "line5": "Represented by:",
+      "line6": "Nilo Escolar"
+    },
+    "section2": {
+      "title": "Contact",
+      "line1": "Phone: 015678710511",
+      "line2": "Email: info@dicilo.net"
+    },
+    "section3": {
+      "title": "VAT ID",
+      "line1": "Value Added Tax identification number according to § 27 a of the Value Added Tax Act: DE323288362"
+    },
+    "section4": {
+      "title": "Editorially responsible",
+      "line1": "Nilo Escolar"
+    },
+    "section5": {
+      "title": "EU Dispute Resolution",
+      "line1_part1": "The European Commission provides a platform for online dispute resolution (ODR): ",
+      "line1_part2": "https://ec.europa.eu/consumers/odr/",
+      "line1_part3": ". Our e-mail address can be found above in the site notice.",
+      "line2": "We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+    },
+    "section6": {
+      "title": "Consumer dispute resolution/Universal arbitration board",
+      "line1": "We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+    }
+  },
+  "privacy_page": {
+    "title": "Privacy Policy",
+    "section1": {
+        "title": "1. Data Protection at a Glance",
+        "content": [
+            "<strong>General Information</strong>",
+            "The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data with which you can be personally identified. Detailed information on the subject of data protection can be found in our privacy policy listed below this text.",
+            "<strong>Data Collection on This Website</strong>",
+            "<strong>Who is responsible for data collection on this website?</strong>",
+            "Data processing on this website is carried out by the website operator. Their contact details can be found in the 'Notice concerning the responsible party' section of this privacy policy.",
+            "<strong>How do we collect your data?</strong>",
+            "Your data is collected on the one hand when you provide it to us. This can be, for example, data that you enter in a contact form. Other data is collected automatically or after your consent when you visit the website through our IT systems. This is mainly technical data (e.g., internet browser, operating system, or time of page view). This data is collected automatically as soon as you enter this website.",
+            "<strong>What do we use your data for?</strong>",
+            "Part of the data is collected to ensure the error-free provision of the website. Other data can be used to analyze your user behavior.",
+            "<strong>What rights do you have regarding your data?</strong>",
+            "You have the right at any time to receive information free of charge about the origin, recipient, and purpose of your stored personal data. You also have a right to request the correction or deletion of this data. If you have given your consent to data processing, you can revoke this consent at any time for the future. Furthermore, you have the right, under certain circumstances, to request the restriction of the processing of your personal data. You also have the right to lodge a complaint with the competent supervisory authority. For this and other questions on the subject of data protection, you can contact us at any time.",
+            "<strong>Analysis Tools and Third-Party Tools</strong>",
+            "When you visit this website, your surfing behavior can be statistically evaluated. This is done primarily with so-called analysis programs. Detailed information on these analysis programs can be found in the following privacy policy."
+        ]
+    },
+    "section2": {
+        "title": "2. Hosting",
+        "content": [
+            "We host the content of our website with the following provider:",
+            "<strong>Mittwald</strong>",
+            "The provider is Mittwald CM Service GmbH & Co. KG, Königsberger Straße 4-6, 32339 Espelkamp (hereinafter Mittwald). Details can be found in Mittwald's privacy policy: https://www.mittwald.de/datenschutz.",
+            "The use of Mittwald is based on Art. 6(1)(f) GDPR. We have a legitimate interest in the most reliable presentation of our website. If a corresponding consent has been requested, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25(1) TTDSG, insofar as the consent includes the storage of cookies or access to information in the user's end device (e.g., device fingerprinting) within the meaning of the TTDSG. The consent can be revoked at any time.",
+            "<strong>Data Processing Agreement</strong>",
+            "We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data protection law, which ensures that it processes the personal data of our website visitors only in accordance with our instructions and in compliance with the GDPR."
+        ]
+    },
+    "section3": {
+        "title": "3. General Notes and Mandatory Information",
+        "content": [
+            "<strong>Data Protection</strong>",
+            "The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy. When you use this website, various personal data are collected. Personal data is data with which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this happens. We would like to point out that data transmission over the Internet (e.g., when communicating by e-mail) can have security gaps. A complete protection of data against access by third parties is not possible.",
+            "<strong>Notice Concerning the Responsible Party</strong>",
+            "The responsible party for data processing on this website is:<br>Nilo Escolar<br>Mühlendamm 84a<br>22087 Hamburg<br>Phone: 015678710511<br>Email: noreplay@dicilo.net",
+            "The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g., names, e-mail addresses, etc.).",
+            "<strong>Storage Period</strong>",
+            "Unless a more specific storage period has been specified in this privacy policy, your personal data will remain with us until the purpose for data processing ceases to apply. If you assert a legitimate request for deletion or revoke your consent to data processing, your data will be deleted, unless we have other legally permissible reasons for storing your personal data (e.g., tax or commercial law retention periods); in the latter case, the deletion will take place after these reasons have ceased to apply.",
+            "<strong>Revocation of Your Consent to Data Processing</strong>",
+            "Many data processing operations are only possible with your express consent. You can revoke consent you have already given at any time. The legality of the data processing carried out until the revocation remains unaffected by the revocation.",
+            "<strong>Right to Lodge a Complaint with the Competent Supervisory Authority</strong>",
+            "In the event of breaches of the GDPR, data subjects have the right to lodge a complaint with a supervisory authority, in particular in the Member State of their habitual residence, their place of work or the place of the alleged infringement. The right to lodge a complaint is without prejudice to any other administrative or judicial remedy.",
+            "<strong>Right to Data Portability</strong>",
+            "You have the right to have data that we process automatically on the basis of your consent or in fulfillment of a contract handed over to you or to a third party in a common, machine-readable format. If you request the direct transfer of the data to another responsible party, this will only be done to the extent that it is technically feasible.",
+            "<strong>SSL/TLS Encryption</strong>",
+            "For security reasons and to protect the transmission of confidential content, such as orders or inquiries that you send to us as the site operator, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from 'http://' to 'https://' and by the lock symbol in your browser line."
+        ]
+    },
+     "section4": {
+      "title": "4. Data Collection on This Website",
+      "content": [
+        "<strong>Consent with Usercentrics</strong>",
+        "This website uses the consent technology of Usercentrics to obtain your consent to the storage of certain cookies on your end device or to the use of certain technologies and to document this in a data protection-compliant manner. The provider of this technology is Usercentrics GmbH, Sendlinger Straße 7, 80331 Munich, Website: https://usercentrics.com/de/ (hereinafter 'Usercentrics').",
+        "<strong>Contact Form</strong>",
+        "If you send us inquiries via the contact form, your details from the inquiry form, including the contact details you provided there, will be stored by us for the purpose of processing the inquiry and in case of follow-up questions. We do not pass on this data without your consent.",
+        "<strong>Inquiry by E-Mail, Telephone, or Fax</strong>",
+        "If you contact us by e-mail, telephone, or fax, your inquiry including all resulting personal data (name, inquiry) will be stored and processed by us for the purpose of processing your request. We do not pass on this data without your consent.",
+        "<strong>Communication via WhatsApp</strong>",
+        "For communication with our customers and other third parties, we use, among other things, the instant messaging service WhatsApp. The provider is WhatsApp Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland. Communication takes place via end-to-end encryption (peer-to-peer), which prevents WhatsApp or other third parties from gaining access to the communication content.",
+        "<strong>Registration on This Website</strong>",
+        "You can register on this website to use additional functions on the site. We use the data entered for this purpose only for the use of the respective offer or service for which you have registered."
+      ]
+    },
+    "section5": {
+      "title": "5. Social Media",
+      "content": [
+        "<strong>eRecht24 Safe Sharing Tool</strong>",
+        "The content on this website can be shared in compliance with data protection in social networks such as Facebook, X & Co. This site uses the eRecht24 Safe Sharing Tool for this purpose. This tool only establishes direct contact between the networks and users when the user actively clicks on one of these buttons.",
+        "<strong>Facebook, X (formerly Twitter), Instagram, LinkedIn, Pinterest</strong>",
+        "Elements of various social networks are integrated on this website. If the respective social media element is active, a direct connection is established between your end device and the server of the social network. The network thereby receives the information that you have visited this website. For more information, please see the respective privacy policies of the providers."
+      ]
+    },
+    "section6": {
+      "title": "6. Analysis Tools and Advertising",
+      "content": [
+        "<strong>Google Ads, Google AdSense (non-personalized), Google Conversion-Tracking</strong>",
+        "This website uses Google services for placing advertisements and analyzing their effectiveness. The provider is Google Ireland Limited. These services may use cookies or similar technologies. Their use is based on your consent."
+      ]
+    },
+    "section7": {
+      "title": "7. Newsletter",
+      "content": [
+        "<strong>Newsletter Data</strong>",
+        "If you would like to receive the newsletter offered on the website, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter.",
+        "<strong>Brevo</strong>",
+        "This website uses Brevo (formerly Sendinblue) for sending newsletters. The provider is Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Germany. Brevo is a service with which, among other things, the sending of newsletters can be organized and analyzed."
+      ]
+    },
+    "section8": {
+      "title": "8. Plugins and Tools",
+      "content": [
+        "<strong>YouTube with Enhanced Privacy</strong>",
+        "This website embeds videos from the YouTube website. We use YouTube in enhanced privacy mode. According to YouTube, this mode means that YouTube does not store any information about visitors to this website before they watch the video.",
+        "<strong>Vimeo without Tracking (Do-Not-Track)</strong>",
+        "This website uses plugins from the video portal Vimeo. We have configured Vimeo so that it will not track your user activities and will not set any cookies.",
+        "<strong>OpenStreetMap</strong>",
+        "We use the map service of OpenStreetMap (OSM) to display geographical information in an appealing way.",
+        "<strong>Spotify</strong>",
+        "Functions of the music service Spotify are integrated on this website. If you click the Spotify button while logged into your Spotify account, you can link the content of this website to your Spotify profile."
+      ]
+    },
+    "section9": {
+      "title": "9. Online Marketing and Affiliate Programs",
+      "content": [
+        "<strong>Affiliate Programs on This Website</strong>",
+        "We participate in affiliate partner programs (e.g., Amazon Partner Program, AWIN, eRecht24 Affiliate Program). If you click on an affiliate advertising link and then make a transaction, we receive compensation. Cookies or similar technologies are used for this purpose."
+      ]
+    },
+    "section10": {
+      "title": "10. eCommerce and Payment Providers",
+      "content": [
+        "<strong>Payment Services</strong>",
+        "We integrate payment services from third-party companies on our website (e.g., Stripe, Mastercard, VISA). If you make a purchase from us, your payment data will be processed by the payment service provider for the purpose of payment processing."
+      ]
+    },
+    "section11": {
+      "title": "11. Own Services",
+      "content": [
+        "<strong>Google Drive</strong>",
+        "We have integrated Google Drive on this website to provide an upload area. If you upload content, it will be stored on Google Drive's servers."
+      ]
+    }
+  },
+  "contact_page": {
+    "title": "Contact Us",
+    "subtitle": "Have a question or a suggestion? We'd love to hear from you.",
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address_title": "Address",
+      "email_title": "Email",
+      "phone_title": "Phone"
+    }
+  }
+}
